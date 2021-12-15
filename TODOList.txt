@@ -1,0 +1,21 @@
+•    Have improvement notes in the results page
+•    Add ways on how to improve the weaknesses for each section
+
+•    When clicking on the previous button youd lose the answers you put in, need to fix that
+•    Add a bit of colour to the radar chart
+======================================================================================================
+•    have the help text after receiving the results from the user
+•    have loading circle when calculating results (makes it look more responsive and interactive)
+	•    "Calculating user type..."
+	•    "Generating chart..."
+•    save the answers when clicking on prevPage
+
+OTHER IMPORTANT STUFF:
+•    make the table header sticky - bootstrap is a bit more complicated with that and im not sure how that would work
+•    filenameTest.csv needs to be renamed to whatever the user's name is or if 
+•    pdf doesnt even work, not sure why. ill look into this later
+
+- colon after "able to"
+- LEARN MARKDOWN AND MAKE IT WORK WITH THE SITE
+- extract as many components as possible for engineered code
+
