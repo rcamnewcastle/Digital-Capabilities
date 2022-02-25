@@ -545,7 +545,7 @@ const AssessmentInput = (props) => {
                         </div>
 
                         <div className='entry-heading'>
-                            <h3>I am able to</h3>
+                            <h3>I am able to:</h3>
                             <p className='mobile-help-message'>Tip: Swipe left and right on the table to view other options</p>
                         </div>
 
@@ -580,7 +580,7 @@ const AssessmentInput = (props) => {
                         </div>
                         
                         <div className='entry-heading'>
-                            <h3>I am able to</h3>
+                            <h3>I am able to:</h3>
                             <p className='mobile-help-message'>Tip: Swipe left and right on the table to view other options</p>
                         </div>
 
@@ -616,7 +616,7 @@ const AssessmentInput = (props) => {
                         </div>
 
                         <div className='entry-heading'>
-                            <h3>I am able to</h3>
+                            <h3>I am able to:</h3>
                             <p className='mobile-help-message'>Tip: Swipe left and right on the table to view other options</p>
                         </div>
 
@@ -652,7 +652,7 @@ const AssessmentInput = (props) => {
                         </div>
                         
                         <div className='entry-heading'>
-                            <h3>I am able to</h3>
+                            <h3>I am able to:</h3>
                             <p className='mobile-help-message'>Tip: Swipe left and right on the table to view other options</p>
                         </div>
 
@@ -688,7 +688,7 @@ const AssessmentInput = (props) => {
                         </div>
 
                         <div className='entry-heading'>
-                            <h3>I am able to</h3>
+                            <h3>I am able to:</h3>
                             <p className='mobile-help-message'>Tip: Swipe left and right on the table to view other options</p>
                         </div>
 
@@ -724,7 +724,7 @@ const AssessmentInput = (props) => {
                         </div>
                         
                         <div className='entry-heading'>
-                            <h3>I am able to</h3>
+                            <h3>I am able to:</h3>
                             <p className='mobile-help-message'>Tip: Swipe left and right on the table to view other options</p>
                         </div>
 
