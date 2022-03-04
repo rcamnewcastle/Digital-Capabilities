@@ -21,7 +21,7 @@ body
 .question
 {
     text-align: right;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .answer
