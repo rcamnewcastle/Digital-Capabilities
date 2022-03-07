@@ -551,12 +551,12 @@ const AssessmentInput = (props) => {
 
                         <Questions 
                             surveyQuestions={[
-                                'Choose the appropriate digital tools or devices which assist me in reaching my learning goals',
-                                'Use digital communication services, tools, and mobile apps (such as email and social networking applications) to communicate with others',
-                                'Use software and tools (such as Office 365 and Adobe) to organise, edit, manage, and back up digital documents and files',
-                                'Use internet browsers to find the required documents or data',
-                                'Perform troubleshooting (i.e., problem-solving) on my computer and digital devices',
-                                'Navigate Windows explorer.'
+                                'choose the appropriate digital tools or devices which assist me in reaching my learning goals',
+                                'use digital communication services, tools, and mobile apps (such as email and social networking applications) to communicate with others',
+                                'use software and tools (such as Office 365 and Adobe) to organise, edit, manage, and back up digital documents and files',
+                                'use internet browsers to find the required documents or data',
+                                'perform troubleshooting (i.e., problem-solving) on my computer and digital devices',
+                                'navigate Windows explorer.'
                             ]}
                             questionNumber={5}
                         />
@@ -586,12 +586,12 @@ const AssessmentInput = (props) => {
 
                         <Questions 
                             surveyQuestions={[
-                                'Use digital technologies (such as digital calendars/planners) to schedule or plan my study',
-                                'Use digital technologies (such as Zoom, Microsoft Teams, BlackBoard or Padlet) to share information with instructors and other students.',
-                                'Use digital tools to record learning events (e.g., lectures, tutorials, webinars) or information for later review.',
-                                'Sign onto and use the University’s supported platforms (such as BlackBoard, MyUON, the Library databases) to find the required document or data.',
-                                'Identify and participate in learning opportunities and courses available in a digital environment (such as YouTube, FutureLearn, and edX online courses).',
-                                'Analyse my digital strengths and weaknesses and reflect on my personal learning'
+                                'use digital technologies (such as digital calendars/planners) to schedule or plan my study',
+                                'use digital technologies (such as Zoom, Microsoft Teams, BlackBoard or Padlet) to share information with instructors and other students.',
+                                'use digital tools to record learning events (e.g., lectures, tutorials, webinars) or information for later review.',
+                                'sign onto and use the University’s supported platforms (such as Canvas, MyUON, the Library databases) to find the required document or data.',
+                                'identify and participate in learning opportunities and courses available in a digital environment (such as YouTube, FutureLearn, and edX online courses).',
+                                'analyse my digital strengths and weaknesses and reflect on my personal learning'
                             ]}
                             questionNumber={6}
                         />
@@ -622,12 +622,12 @@ const AssessmentInput = (props) => {
 
                         <Questions 
                             surveyQuestions={[
-                                'Use digital tools to edit an image and create a video',
-                                'Design and administer online surveys (such as SurveyMonkey, Qualtrics, and Google Docs) to gather qualitative and quantitative data.',
-                                'Analyse data using qualitative or quantitative software and digital tools',
-                                'Evaluate a problem by gathering appropriate information using digital tools',
-                                'Generate a new written and/or visual digital product by comparing and synthesising information that was found elsewhere',
-                                'Adapt and integrate a new technology into my learning environment'
+                                'use digital tools to edit an image and create a video',
+                                'design and administer online surveys (such as SurveyMonkey, Qualtrics, and Google Docs) to gather qualitative and quantitative data.',
+                                'analyse qualitative or quantitative data using software and digital tools',
+                                'evaluate a problem by gathering appropriate information using digital tools',
+                                'generate a new written and/or visual digital product by comparing and synthesising information that was found elsewhere',
+                                'adapt and integrate a new technology into my learning environment'
                             ]}
                             questionNumber={7}
                         />
@@ -658,12 +658,12 @@ const AssessmentInput = (props) => {
 
                         <Questions 
                             surveyQuestions={[
-                                'Interact online with people from diverse communities and respect multiple perspectives',
-                                'Work remotely with colleagues/students/classmates using online collaborative tools',
-                                'Use technology to ask a question or deliver a message in a socially acceptable way (i.e., netiquette rules)',
-                                'Contribute to comments in online discussions (online forum, blog or wiki) on social issues encountered in everyday life.',
-                                'Find relevant communities and groups online that suit my interests and needs',
-                                'Share content and information using social networks (such as Facebook) and collaborative platforms (such as OneDrive, Google Drive, Dropbox, etc.)'
+                                'interact online with people from diverse communities and respect multiple perspectives',
+                                'work remotely with colleagues/students/classmates using online collaborative tools such as discussion forums in Canvas, Teams Chat etc',
+                                'use technology to ask a question or deliver a message in a socially acceptable way (i.e., obey netiquette rules)',
+                                'contribute to comments in online discussions (online forum, blog or wiki) on social issues encountered in everyday life.',
+                                'find relevant communities and groups online that suit my interests and needs',
+                                'share content and information using social networks (such as Facebook) and collaborative platforms (such as OneDrive, Google Drive, Dropbox, etc.)'
                             ]}
                             questionNumber={8}
                         />
@@ -694,12 +694,12 @@ const AssessmentInput = (props) => {
 
                         <Questions 
                             surveyQuestions={[
-                                'Receive and respond to messages in a range of digital media (such as text, graphics, video, animation, audio and multimedia)',
-                                'Use database applications to enter and retrieve information required for my studies',
-                                'Use the filtering and advanced search options in online databases (such as Google Scholar)',
-                                'Assess the truthfulness of information before sharing it on social media or with other students',
-                                'Follow the rules of copyright and give credit for others’ work through proper referencing',
-                                'Distinguish the differences between primary and secondary sources'
+                                'receive and respond to messages in a range of digital media (such as text, graphics, video, animation, audio and multimedia)',
+                                'use database applications (such as filters, combining searches etc) to enter and retrieve information required for my studies',
+                                'use the filtering and advanced search options in online databases (such as Google Scholar)',
+                                'assess the truthfulness of information before sharing it on social media or with other students',
+                                'follow the rules of copyright and give credit for others’ work through proper referencing',
+                                'distinguish the differences between primary and secondary sources'
                             ]}
                             questionNumber={9}
                         />
@@ -730,12 +730,12 @@ const AssessmentInput = (props) => {
 
                         <Questions 
                             surveyQuestions={[
-                                'Evaluate content of emails/messages/calls for spam and scam content',
-                                'Protect my personal data in online and offline environments',
-                                'Act positively against others’ damaging online behaviours (e.g., reporting or rejecting cyberbullying)',
-                                'Be considerate of others\' privacy when taking video or pictures',
-                                'Adjust the privacy settings of my digital devices and tools',
-                                'Protect my mental, physical, and emotional health when using digital technologies or tools'
+                                'evaluate content of emails/messages/calls for spam and scam content',
+                                'protect my personal data in online and offline environments',
+                                'act positively against others’ damaging online behaviours (e.g., reporting or rejecting cyberbullying)',
+                                'be considerate of others' privacy when taking video or pictures',
+                                'adjust the privacy settings of my digital devices and tools',
+                                'protect my mental, physical, and emotional health when using digital technologies or tools'
                             ]}
                             questionNumber={10}
                         />
