@@ -465,7 +465,7 @@ const AssessmentInput = (props) => {
             "Q10_I am able to_Evaluate content of emails/messages/calls for spam and scam content": rawSection6[0],
             "Q10_I am able to_Protect my personal data in online and offline environments": rawSection6[1],
             "Q10_I am able to_Act positively against others’ damaging online behaviours (e.g., reporting or rejecting cyberbullying)": rawSection6[2],
-            "Q10_I am able to_Be considerate of others' privacy when taking video or pictures": rawSection6[3],
+            "Q10_I am able to_Be considerate of others\' privacy when taking video or pictures": rawSection6[3],
             "Q10_I am able to_Adjust the privacy settings of my digital devices and tools": rawSection6[4],
             "Q10_I am able to_Protect my mental, physical, and emotional health when using digital technologies or tools": rawSection6[5]
         });
@@ -733,7 +733,7 @@ const AssessmentInput = (props) => {
                                 'evaluate content of emails/messages/calls for spam and scam content',
                                 'protect my personal data in online and offline environments',
                                 'act positively against others’ damaging online behaviours (e.g., reporting or rejecting cyberbullying)',
-                                'be considerate of others' privacy when taking video or pictures',
+                                'be considerate of others\' privacy when taking video or pictures',
                                 'adjust the privacy settings of my digital devices and tools',
                                 'protect my mental, physical, and emotional health when using digital technologies or tools'
                             ]}
