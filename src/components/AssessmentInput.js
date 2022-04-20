@@ -439,7 +439,7 @@ const AssessmentInput = (props) => {
             "Q5_I am able to_Perform troubleshooting (i.e., problem-solving) on my computer and digital devices": rawSection1[4],
             "Q5_I am able to_Code applications or programs": rawSection1[5],
             "Q6_I am able to_Use digital technologies (such as digital calendars/planners) to schedule or plan my study": rawSection2[0],
-            "Q6_I am able to_Use digital technologies (such as Zoom, Microsoft Teams, BlackBoard or Padlet) to share information with instructors and other students.": rawSection2[1],
+            "Q6_I am able to_Use digital technologies (such as Zoom, Microsoft Teams, Canvas or Padlet) to share information with instructors and other students.": rawSection2[1],
             "Q6_I am able to_Use digital tools to record learning events (e.g., lectures, tutorials, webinars) or information for later review": rawSection2[2],
             "Q6_I am able to_Sign onto and use the University’s supported platforms (such as BlackBoard, MyUON, the Library databases) to find the required document or data.": rawSection2[3],
             "Q6_I am able to_Identify and participate in learning opportunities and courses available in a digital environment (such as YouTube, FutureLearn, and edX online courses).": rawSection2[4],
@@ -587,7 +587,7 @@ const AssessmentInput = (props) => {
                         <Questions 
                             surveyQuestions={[
                                 'use digital technologies (such as digital calendars/planners) to schedule or plan my study',
-                                'use digital technologies (such as Zoom, Microsoft Teams, BlackBoard or Padlet) to share information with instructors and other students.',
+                                'use digital technologies (such as Zoom, Microsoft Teams, Canvas or Padlet) to share information with instructors and other students.',
                                 'use digital tools to record learning events (e.g., lectures, tutorials, webinars) or information for later review.',
                                 'sign onto and use the University’s supported platforms (such as Canvas, MyUON, the Library databases) to find the required document or data.',
                                 'identify and participate in learning opportunities and courses available in a digital environment (such as YouTube, FutureLearn, and edX online courses).',
@@ -660,8 +660,8 @@ const AssessmentInput = (props) => {
                             surveyQuestions={[
                                 'interact online with people from diverse communities and respect multiple perspectives',
                                 'work remotely with colleagues/students/classmates using online collaborative tools such as discussion forums in Canvas, Teams Chat etc',
-                                'use technology to ask a question or deliver a message in a socially acceptable way (i.e., obey netiquette rules)',
-                                'contribute to comments in online discussions (online forum, blog or wiki) on social issues encountered in everyday life.',
+                                'use technology to ask a question or deliver a message in a socially acceptable way (i.e., obey Netiquette rules)',
+                                'contribute to comments in online discussions (online forum, blog or wiki) on social issues encountered in everyday life',
                                 'find relevant communities and groups online that suit my interests and needs',
                                 'share content and information using social networks (such as Facebook) and collaborative platforms (such as OneDrive, Google Drive, Dropbox, etc.)'
                             ]}
