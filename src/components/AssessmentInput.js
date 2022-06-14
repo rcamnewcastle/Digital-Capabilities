@@ -776,10 +776,10 @@ const AssessmentInput = (props) => {
                             </div>
                         </div>
 
-                        {/* generate radar chart */}
+                        {/* generate radar chart
                         <div className='radar' id='radar'>
                             <RadarChart inputData={chartData} />
-                        </div>
+                        </div> */}
 
                         <div className='capabilities-wrapper'>
                             {/* Save results wrap */}
@@ -793,15 +793,15 @@ const AssessmentInput = (props) => {
                                             <DownloadCSV chartData={downloadChartData} />
                                         </td>
                                     </tr>
-                                    <tr className='dark-border-bottom'>
+                                    {/* <tr className='dark-border-bottom'>
                                         <td><p className='results-table-text'>Save a PDF print-out of your results with hyperlinks to learning resources intact.</p></td>
                                         <td><button className='button' type="button" onClick={printDocument} >Download PDF</button></td>
-                                    </tr>
+                                    </tr> */}
                                 </tbody>
                             </table>
                             <br></br>
 
-                            {/* csv upload */}
+                            {/* csv upload
                             <div className='csvupload-wrapper'>
                                 <h2 className='results-subheading'>Compare Results</h2>
                                 <table className='results-table' cellSpacing='0'>
@@ -816,7 +816,7 @@ const AssessmentInput = (props) => {
                                         </tr>
                                     </tbody>
                                 </table>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className='capabilities-wrapper'>
