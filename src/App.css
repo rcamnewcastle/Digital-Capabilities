@@ -33,6 +33,11 @@
   padding-top: 50px;
 }
 
+.madeByText 
+{
+  padding: 0.6em;
+}
+
 .user-type
 {
   color: blue;
@@ -41,7 +46,7 @@
 
 .uon-image
 {
-  height: 100px;
+  height: 200px;
 }
 
 .chart-wrapper
